@@ -1,0 +1,61 @@
+Noor Photography WordPress Theme — Licensing
+==============================================
+
+Copyright (C) 2026 Noor Studio
+
+1. Theme code (PHP, CSS, JS authored for this theme)
+------------------------------------------------------
+Released under the GNU General Public License v2.0 (or later), as required
+for any WordPress theme (it is a derivative work of WordPress, itself GPL).
+
+    https://www.gnu.org/licenses/gpl-2.0.html
+
+You are free to use, modify, and redistribute the theme code under the same
+terms, including for commercial projects, subject to the marketplace license
+you purchased the theme under (Regular / Extended license, per Envato's
+terms) governing how many end-products you may build with it.
+
+2. Bundled fonts
+------------------
+  - Amiri                    — SIL Open Font License 1.1
+  - IBM Plex Sans Arabic     — SIL Open Font License 1.1
+
+Both are loaded from Google Fonts (fonts.googleapis.com) at runtime and are
+not bundled as files in the theme package. Both licenses permit commercial
+use, modification, and redistribution.
+
+    https://scripts.sil.org/OFL
+
+3. Demo / placeholder photography — NOT INCLUDED
+---------------------------------------------------
+IMPORTANT: This theme package does NOT bundle the wedding/portrait/fashion/
+product/event/commercial demo photographs shown in the original design
+reference. Those images originated from an AI prototyping tool (Lovable)
+with no verifiable commercial redistribution license, and are therefore
+excluded from this distributable package (see /documentation/licensing.md
+for the full audit).
+
+Before deploying or reselling a site built on this theme:
+  - Replace all portfolio/service/testimonial/hero images with your own
+    photography, or with stock images you hold a commercial license for
+    (e.g. a paid Unsplash+/Adobe Stock/Shutterstock license, or an
+    equivalent extended license covering resale-adjacent use).
+  - The theme's demo importer (Theme Settings → محتوى تجريبي) works
+    without images and will create all demo content (projects, services,
+    testimonials, packages, pages) with no featured image set; you attach
+    your own licensed images afterwards from the Media Library.
+
+4. Icons / illustrations / third-party JavaScript libraries
+---------------------------------------------------------------
+None are bundled. All interactive UI (mobile menu, search overlay, image
+lightbox, scroll reveal, counters, accordions) is original vanilla
+JavaScript written for this theme (assets/js/*.js), and all iconography is
+drawn with plain CSS (borders/rotated squares) or is plain text — nothing
+here carries a third-party license obligation.
+
+5. Third-party plugins referenced (not bundled)
+----------------------------------------------------
+The theme is compatible with, but does not require or bundle, WooCommerce,
+Yoast SEO, Rank Math, Elementor, or Contact Form 7. Each is separately
+licensed by its respective author; consult their own licensing terms if
+you choose to install them.

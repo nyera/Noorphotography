@@ -1,0 +1,75 @@
+Noor Photography — Changelog
+==============================
+
+1.0.1
+-----
+* Fixed: a stray "ocial" text fragment printing after the footer menu on
+  every page (wp_nav_menu items_wrap typo).
+* Fixed: the homepage "تابعنا" Instagram link and Instagram grid tiles were
+  dead `#` links even when an Instagram handle was configured — they now
+  link to the real profile (new noor_get_instagram_url() helper accepts a
+  plain handle, an "@handle", or a full URL).
+* Added: "رمز العملة" (currency symbol) Theme Option — Package pricing on
+  the Pricing and Booking pages no longer hardcodes "ر.س", so studios
+  outside Saudi Arabia can set their own currency. Defaults to "ر.س",
+  identical to the previous fixed output.
+* Removed: the Portfolio "يحتوي هذا المشروع على فيديو" checkbox and its
+  "فيديو" card badge — it had no actual video playback behind it and was
+  misleading. No video system existed or was removed; only the non-functional
+  label was cleaned up.
+* Fixed: featured/latest testimonials on the homepage now respect the
+  Testimonial post type's admin-facing ordering field (menu_order) instead
+  of always falling back to publish date.
+* Fixed: empty Client/Location/Year fields on a portfolio project no longer
+  render as blank metadata labels on the single-project page.
+
+1.0.0
+-----
+* Initial commercial release.
+* Converted from the noor-portfolio-craft React/Lovable reference design to
+  a native WordPress theme (no page-builder dependency, no ACF requirement).
+* Custom post types: Portfolio (with Portfolio Category taxonomy), Service,
+  Testimonial, Package.
+* Durable, admin-manageable storage for Booking Request and Contact Message
+  form submissions (in addition to email notification).
+* Global Theme Settings screen (brand, contact, social links, stats,
+  photographer bio, Instagram grid, footer).
+* Page templates: Home (front page), About, Pricing (dynamic comparison
+  table), Contact, Booking — each with its own content fields.
+* One-click demo content importer (Theme Settings → محتوى تجريبي).
+* RTL forced at the theme level (Arabic-first design, independent of the
+  site's WordPress language setting).
+* Contact/booking/newsletter forms: nonce-verified, honeypot spam trap,
+  per-IP rate limiting, server-side validation independent of the client.
+* Gutenberg block editor support: editor-style preview, matching color/font
+  palette, RTL editor canvas, and reusable block patterns (manifesto quote,
+  stats band, final CTA) for building non-homepage pages with core blocks.
+* Elementor compatibility: pages built with Elementor render its own full
+  canvas without the theme's page-header/width constraints fighting it.
+* WooCommerce compatibility hooks (theme is not shop-dependent; only wraps
+  default WooCommerce templates in the theme's container/typography if the
+  plugin is activated).
+* SEO fallback (meta description, canonical, Open Graph, basic JSON-LD) that
+  automatically stays silent when Yoast SEO or Rank Math is active.
+* Fixed: RTL not applied when the WordPress site language is left at the
+  English default despite Arabic content.
+* Fixed: horizontal overflow on mobile caused by a Chromium
+  `position: fixed` + RTL + overflow interaction affecting the header,
+  mobile menu, search overlay, and cookie notice.
+* Translation-ready: consistent `noor-photography` text domain throughout,
+  languages/noor-photography.pot generated from the full codebase (404 strings).
+* Native WordPress Customizer panel ("نُور — التصميم") for colors and
+  typography, with live preview and defaults matching the original design
+  exactly — no third-party options framework.
+* Homepage section visibility toggles (show/hide Hero, Manifesto,
+  Portfolio, About preview, Services, Stats, Testimonials, Instagram, Final
+  CTA independently, content preserved either way).
+* "Featured on homepage" flag for Portfolio and Testimonial posts —
+  homepage shows flagged items when present, falls back to latest
+  automatically otherwise.
+* Optional always-solid header style (Theme Settings → التخطيط), as an
+  alternative to the default transparent-over-hero front-page header.
+* Four additional Gutenberg block patterns: Hero, Portfolio grid (live
+  Query Loop), Services list (live Query Loop), Testimonials grid (live
+  Query Loop) — bringing the total to 7, covering every section category
+  requested for block-editor flexibility.

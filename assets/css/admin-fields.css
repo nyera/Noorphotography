@@ -1,0 +1,11 @@
+.noor-field { margin-bottom: 14px; }
+.noor-field label { display: block; margin-bottom: 4px; }
+.noor-gallery-preview { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.noor-gallery-preview img { width: 70px; height: 70px; object-fit: cover; border: 1px solid #ccd0d4; }
+.noor-options-wrap .form-table th { width: 260px; }
+.noor-options-wrap textarea.code { font-family: Consolas, Monaco, monospace; direction: ltr; text-align: left; }
+.noor-sortable-list { margin: 0; }
+.noor-sortable-list li { display: flex; align-items: center; gap: 8px; padding: 6px 8px; margin-bottom: 4px; background: #fff; border: 1px solid #dcdcde; border-radius: 3px; cursor: default; }
+.noor-sortable-list li.ui-sortable-helper { box-shadow: 0 2px 6px rgba(0,0,0,0.15); }
+.noor-sortable-list .noor-drag-handle { cursor: move; color: #787c82; font-size: 16px; line-height: 1; }
+.noor-sortable-list label { margin: 0; }

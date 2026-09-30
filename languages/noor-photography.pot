@@ -1,0 +1,1744 @@
+# Copyright (C) 2026 Noor Studio
+# This file is distributed under the same license as the Noor Photography theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Noor Photography 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-01T00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-01-01T00:00:00+00:00\n"
+"X-Generator: noor-pot-generator\n"
+"X-Domain: noor-photography\n"
+#: template-parts/portfolio/card.php:23
+msgid "%1$s — تصوير %2$s في %3$s"
+msgstr ""
+
+#: inc/submissions.php:94
+msgid "(بدون موضوع)"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "IBM Plex Sans Arabic (الخط الافتراضي)"
+msgstr ""
+
+#: inc/theme-options.php:25
+msgid "© %year% جميع الحقوق محفوظة."
+msgstr ""
+
+#: template-about.php:104
+msgid "آراء"
+msgstr ""
+
+#: front-page.php:175
+#: inc/custom-post-types.php:59
+#: inc/custom-post-types.php:64
+#: inc/helpers.php:137
+msgid "آراء العملاء"
+msgstr ""
+
+#: inc/block-editor.php:31
+msgid "أبيض"
+msgstr ""
+
+#: template-booking.php:40
+msgid "أخبرنا بتفاصيل المناسبة، ونرسل لك خلال ٢٤ ساعة عرضًا مفصّلًا وتأكيدًا مبدئيًا للتاريخ."
+msgstr ""
+
+#: inc/page-meta.php:71
+msgid "أخفِ أي قسم لا تحتاجه دون حذف محتواه — يمكنك إعادة إظهاره لاحقًا."
+msgstr ""
+
+#: inc/block-editor.php:90
+msgid "أربع إحصائيات على خلفية داكنة، بنفس أسلوب قسم الأرقام في الصفحة الرئيسية."
+msgstr ""
+
+#: template-contact.php:54
+msgid "أرسل رسالة"
+msgstr ""
+
+#: template-booking.php:85
+msgid "أرسل طلب الحجز"
+msgstr ""
+
+#: archive-service.php:51
+msgid "أرسل طلب حجز"
+msgstr ""
+
+#: archive.php:10
+msgid "أرشيف"
+msgstr ""
+
+#: inc/seo.php:26
+msgid "أرشيف أعمال ومشاريع التصوير الفوتوغرافي."
+msgstr ""
+
+#: archive-portfolio.php:17
+#: archive-portfolio.php:69
+msgid "أرشيف المشاريع"
+msgstr ""
+
+#: template-contact.php:98
+#: template-pricing.php:109
+msgid "أسئلة"
+msgstr ""
+
+#: single-service.php:80
+msgid "أسئلة متكررة"
+msgstr ""
+
+#: template-pricing.php:93
+msgid "أسعار تبدأ من"
+msgstr ""
+
+#: archive-portfolio.php:79
+msgid "أضف أول مشروع من لوحة التحكم لعرضه هنا."
+msgstr ""
+
+#: comments.php:50
+msgid "أضف تعليقًا"
+msgstr ""
+
+#: front-page.php:72
+#: inc/helpers.php:133
+msgid "أعمال مختارة"
+msgstr ""
+
+#: inc/custom-fields.php:106
+msgid "أفقي (3:2)"
+msgstr ""
+
+#: inc/page-meta.php:34
+msgid "أقسام الصفحة الرئيسية"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "أميري (الخط الافتراضي)"
+msgstr ""
+
+#: inc/custom-fields.php:234
+msgid "إبراز هذه الباقة (تصميم داكن مميّز)"
+msgstr ""
+
+#: inc/custom-fields.php:112
+msgid "إذا لم يُميَّز أي مشروع، تعرض الصفحة الرئيسية أحدث المشاريع تلقائيًا."
+msgstr ""
+
+#: comments.php:51
+msgid "إرسال التعليق"
+msgstr ""
+
+#: template-contact.php:88
+msgid "إرسال الرسالة"
+msgstr ""
+
+#: template-booking.php:31
+msgid "إرسال طلب آخر"
+msgstr ""
+
+#: inc/custom-post-types.php:81
+msgid "إضافة باقة"
+msgstr ""
+
+#: inc/custom-post-types.php:82
+msgid "إضافة باقة جديدة"
+msgstr ""
+
+#: inc/custom-taxonomies.php:18
+msgid "إضافة تصنيف جديد"
+msgstr ""
+
+#: inc/custom-post-types.php:39
+msgid "إضافة خدمة"
+msgstr ""
+
+#: inc/custom-post-types.php:40
+msgid "إضافة خدمة جديدة"
+msgstr ""
+
+#: inc/custom-post-types.php:61
+msgid "إضافة رأي"
+msgstr ""
+
+#: inc/custom-post-types.php:62
+msgid "إضافة رأي جديد"
+msgstr ""
+
+#: inc/custom-post-types.php:16
+msgid "إضافة مشروع"
+msgstr ""
+
+#: inc/custom-post-types.php:17
+msgid "إضافة مشروع جديد"
+msgstr ""
+
+#: inc/demo-content.php:52
+msgid "إعادة استيراد المحتوى التجريبي"
+msgstr ""
+
+#: inc/theme-options.php:76
+#: inc/theme-options.php:77
+msgid "إعدادات نُور"
+msgstr ""
+
+#: inc/theme-options.php:94
+msgid "إعدادات نُور — المحتوى العام للموقع"
+msgstr ""
+
+#: single-portfolio.php:141
+#: template-parts/header/mobile-menu.php:13
+#: template-parts/header/search-overlay.php:11
+msgid "إغلاق"
+msgstr ""
+
+#: inc/custom-fields.php:86
+#: inc/theme-options.php:207
+msgid "إفراغ"
+msgstr ""
+
+#: single-portfolio.php:102
+msgid "إكس"
+msgstr ""
+
+#: front-page.php:203
+#: inc/theme-options.php:190
+msgid "إنستغرام"
+msgstr ""
+
+#: template-parts/header/search-overlay.php:15
+msgid "ابحث عن مشروع أو خدمة…"
+msgstr ""
+
+#: template-parts/header/search-overlay.php:14
+msgid "ابحث في الأعمال والخدمات"
+msgstr ""
+
+#: inc/block-editor.php:132
+msgid "احجز الآن"
+msgstr ""
+
+#: front-page.php:42
+#: template-about.php:113
+#: template-parts/header/mobile-menu.php:29
+#: template-parts/header/site-header.php:40
+msgid "احجز جلستك"
+msgstr ""
+
+#: single-portfolio.php:131
+msgid "احجز مشروعًا مشابهًا"
+msgstr ""
+
+#: front-page.php:226
+msgid "احجز موعد التصوير"
+msgstr ""
+
+#: template-pricing.php:49
+msgid "احجز هذه الباقة"
+msgstr ""
+
+#: single-service.php:55
+msgid "احجز هذه الخدمة"
+msgstr ""
+
+#: template-pricing.php:31
+msgid "اختر الباقة الأقرب لاحتياجك، أو اطلب باقة مخصّصة تُبنى حول مناسبتك."
+msgstr ""
+
+#: template-booking.php:64
+msgid "اختر خدمة…"
+msgstr ""
+
+#: inc/custom-fields.php:85
+#: inc/theme-options.php:206
+msgid "اختيار الصور"
+msgstr ""
+
+#: inc/page-meta.php:66
+#: inc/theme-options.php:184
+msgid "اختيار صورة"
+msgstr ""
+
+#: inc/theme-options.php:232
+msgid "استخدم %year% لإدراج السنة الحالية تلقائيًا."
+msgstr ""
+
+#: archive-portfolio.php:18
+msgid "استخدم التصفية أو البحث للوصول إلى ما يهمك."
+msgstr ""
+
+#: inc/block-editor.php:144
+msgid "استوديو نُور · الرياض"
+msgstr ""
+
+#: inc/demo-content.php:52
+msgid "استيراد المحتوى التجريبي"
+msgstr ""
+
+#: inc/theme-options.php:106
+msgid "اسم العلامة (إنجليزي)"
+msgstr ""
+
+#: inc/theme-options.php:102
+msgid "اسم العلامة (عربي)"
+msgstr ""
+
+#: inc/forms.php:212
+msgid "اشتراك جديد بالنشرة البريدية"
+msgstr ""
+
+#: template-parts/footer/site-footer.php:75
+msgid "اشترك"
+msgstr ""
+
+#: template-parts/header/search-overlay.php:18
+msgid "اقتراحات سريعة"
+msgstr ""
+
+#: inc/block-editor.php:148
+msgid "اكتب هنا عنوانًا كبيرًا يجذب الزائر منذ اللحظة الأولى."
+msgstr ""
+
+#: inc/block-editor.php:127
+msgid "اكتب هنا عنوانًا يدعو الزائر لاتخاذ إجراء."
+msgstr ""
+
+#: inc/block-editor.php:81
+msgid "اكتب هنا فقرة قصيرة تعبّر عن فلسفة عملك أو رؤيتك."
+msgstr ""
+
+#: inc/theme-options.php:149
+msgid "الأرقام (تظهر في الرئيسية وصفحة عن الاستوديو)"
+msgstr ""
+
+#: template-pricing.php:109
+msgid "الأسئلة الشائعة عن الأسعار"
+msgstr ""
+
+#: inc/page-meta.php:40
+msgid "الأسئلة الشائعة لهذه الصفحة"
+msgstr ""
+
+#: inc/page-meta.php:141
+msgid "الأسئلة الشائعة — بصيغة: السؤال :: الجواب"
+msgstr ""
+
+#: inc/custom-fields.php:158
+msgid "الأسئلة الشائعة — بصيغة: السؤال :: الجواب (سطر لكل سؤال)"
+msgstr ""
+
+#: inc/block-editor.php:26
+msgid "الأساسي (حبر)"
+msgstr ""
+
+#: footer.php:14
+msgid "الأساسية فقط"
+msgstr ""
+
+#: archive-portfolio.php:16
+#: archive-portfolio.php:21
+#: archive-portfolio.php:68
+#: archive-portfolio.php:71
+#: inc/custom-post-types.php:14
+#: inc/custom-post-types.php:23
+#: single-portfolio.php:43
+#: template-parts/footer/site-footer.php:41
+msgid "الأعمال"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "الألوان"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "الألوان والخطوط الأساسية للثيم. القيم الافتراضية هي تصميم نُور الأصلي — أي تغيير هنا يُطبَّق فورًا على كامل الموقع."
+msgstr ""
+
+#: inc/theme-options.php:146
+msgid "الإحصائيات"
+msgstr ""
+
+#: comments.php:55
+#: inc/forms.php:88
+#: inc/forms.php:168
+#: inc/submissions.php:200
+#: inc/submissions.php:213
+#: inc/theme-options.php:160
+msgid "الاسم"
+msgstr ""
+
+#: template-contact.php:73
+msgid "الاسم *"
+msgstr ""
+
+#: template-booking.php:56
+msgid "الاسم الكامل *"
+msgstr ""
+
+#: inc/submissions.php:114
+msgid "الاسم والتاريخ"
+msgstr ""
+
+#: inc/submissions.php:148
+msgid "الاسم والموضوع"
+msgstr ""
+
+#: template-parts/footer/site-footer.php:43
+#: template-pricing.php:29
+msgid "الباقات"
+msgstr ""
+
+#: inc/forms.php:173
+#: inc/submissions.php:205
+msgid "الباقة"
+msgstr ""
+
+#: template-booking.php:72
+msgid "الباقة المفضّلة"
+msgstr ""
+
+#: template-parts/header/search-overlay.php:10
+msgid "البحث"
+msgstr ""
+
+#: template-parts/header/search-overlay.php:7
+msgid "البحث في الموقع"
+msgstr ""
+
+#: inc/forms.php:88
+#: inc/forms.php:169
+#: inc/submissions.php:116
+#: inc/submissions.php:149
+#: template-contact.php:30
+msgid "البريد"
+msgstr ""
+
+#: comments.php:56
+#: inc/submissions.php:201
+#: inc/submissions.php:214
+#: inc/theme-options.php:122
+msgid "البريد الإلكتروني"
+msgstr ""
+
+#: template-booking.php:57
+#: template-contact.php:77
+msgid "البريد الإلكتروني *"
+msgstr ""
+
+#: inc/theme-options.php:67
+msgid "البريد الإلكتروني للتواصل غير صحيح."
+msgstr ""
+
+#: template-pricing.php:65
+msgid "البند"
+msgstr ""
+
+#: inc/forms.php:171
+msgid "التاريخ المبدئي"
+msgstr ""
+
+#: template-booking.php:59
+msgid "التاريخ المبدئي *"
+msgstr ""
+
+#: inc/submissions.php:203
+msgid "التاريخ المطلوب"
+msgstr ""
+
+#: archive-portfolio.php:57
+#: archive.php:29
+#: comments.php:38
+#: home.php:30
+#: single-portfolio.php:147
+msgid "التالي"
+msgstr ""
+
+#: inc/theme-options.php:213
+msgid "التخطيط"
+msgstr ""
+
+#: single-portfolio.php:57
+msgid "التصنيف"
+msgstr ""
+
+#: inc/custom-taxonomies.php:19
+msgid "التصنيفات"
+msgstr ""
+
+#: comments.php:53
+msgid "التعليق"
+msgstr ""
+
+#: comments.php:45
+msgid "التعليقات مغلقة."
+msgstr ""
+
+#: inc/custom-fields.php:191
+msgid "التقييم"
+msgstr ""
+
+#: front-page.php:122
+msgid "التكريمات"
+msgstr ""
+
+#: inc/block-editor.php:29
+msgid "التمييز (ذهبي رملي)"
+msgstr ""
+
+#: template-parts/header/site-header.php:24
+msgid "التنقّل الرئيسي"
+msgstr ""
+
+#: inc/theme-options.php:119
+msgid "التواصل"
+msgstr ""
+
+#: template-about.php:81
+msgid "الجوائز والمنشورات"
+msgstr ""
+
+#: inc/page-meta.php:118
+msgid "الجوائز والمنشورات — بصيغة: السنة :: النص"
+msgstr ""
+
+#: inc/submissions.php:115
+msgid "الجوال"
+msgstr ""
+
+#: inc/submissions.php:118
+#: inc/submissions.php:150
+#: inc/submissions.php:182
+msgid "الحالة"
+msgstr ""
+
+#: template-booking.php:21
+#: template-booking.php:38
+#: template-booking.php:41
+msgid "الحجز"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "الحجم الأساسي لنص الموقع"
+msgstr ""
+
+#: template-booking.php:86
+msgid "الحقول المعلّمة بـ * مطلوبة"
+msgstr ""
+
+#: front-page.php:119
+msgid "الخبرة"
+msgstr ""
+
+#: archive-service.php:11
+#: archive-service.php:14
+#: front-page.php:136
+#: inc/custom-post-types.php:37
+#: inc/custom-post-types.php:46
+#: inc/helpers.php:135
+#: single-service.php:22
+#: template-parts/footer/site-footer.php:49
+#: template-parts/footer/site-footer.php:50
+msgid "الخدمات"
+msgstr ""
+
+#: inc/forms.php:172
+#: inc/submissions.php:117
+#: inc/submissions.php:204
+msgid "الخدمة"
+msgstr ""
+
+#: inc/block-editor.php:27
+msgid "الخلفية"
+msgstr ""
+
+#: inc/helpers.php:139
+msgid "الدعوة الختامية"
+msgstr ""
+
+#: inc/custom-fields.php:190
+msgid "الدور / المناسبة"
+msgstr ""
+
+#: archive-portfolio.php:20
+#: archive-portfolio.php:71
+#: archive-service.php:14
+#: archive.php:13
+#: home.php:13
+#: page.php:23
+#: single-portfolio.php:42
+#: single-service.php:21
+#: single.php:14
+#: template-about.php:22
+#: template-booking.php:21
+#: template-booking.php:41
+#: template-contact.php:17
+#: template-pricing.php:32
+msgid "الرئيسية"
+msgstr ""
+
+#: inc/submissions.php:216
+msgid "الرسالة"
+msgstr ""
+
+#: template-contact.php:85
+msgid "الرسالة *"
+msgstr ""
+
+#: archive-portfolio.php:56
+#: archive.php:29
+#: comments.php:37
+#: home.php:30
+#: single-portfolio.php:145
+msgid "السابق"
+msgstr ""
+
+#: inc/block-editor.php:28
+msgid "السطح"
+msgstr ""
+
+#: inc/custom-fields.php:232
+msgid "السعر (أرقام فقط، بدون العملة)"
+msgstr ""
+
+#: inc/custom-fields.php:155
+msgid "السعر (نص حر)"
+msgstr ""
+
+#: inc/custom-fields.php:104
+#: single-portfolio.php:59
+msgid "السنة"
+msgstr ""
+
+#: template-about.php:37
+msgid "السيرة"
+msgstr ""
+
+#: front-page.php:126
+msgid "السيرة الكاملة"
+msgstr ""
+
+#: inc/setup.php:88
+msgid "الشريط الجانبي للمدونة"
+msgstr ""
+
+#: inc/theme-options.php:110
+msgid "الشعار الفرعي"
+msgstr ""
+
+#: page.php:34
+#: single.php:25
+msgid "الصفحات:"
+msgstr ""
+
+#: 404.php:17
+msgid "الصفحة التي تبحث عنها غير موجودة أو تم نقلها. يمكنك العودة إلى الرئيسية أو تصفّح الأعمال."
+msgstr ""
+
+#: template-parts/header/site-header.php:12
+msgid "الصفحة الرئيسية"
+msgstr ""
+
+#: inc/custom-fields.php:114
+msgid "الصورة المميّزة تُستخدم كصورة غلاف البطاقة والصفحة الرئيسية للمشروع. المقتطف (Excerpt) يُستخدم كوصف قصير، ومحتوى المقال يُستخدم كوصف المشروع الكامل."
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "الطباعة"
+msgstr ""
+
+#: inc/custom-fields.php:102
+#: single-portfolio.php:56
+msgid "العميل"
+msgstr ""
+
+#: inc/theme-options.php:130
+#: template-contact.php:28
+msgid "العنوان"
+msgstr ""
+
+#: inc/custom-fields.php:199
+msgid "العنوان = اسم العميل. محتوى المقال = نص الرأي. الصورة المميّزة = صورة العميل. إذا لم يُميَّز أي رأي، تعرض الصفحة الرئيسية أحدث الآراء تلقائيًا."
+msgstr ""
+
+#: 404.php:19
+msgid "العودة للرئيسية"
+msgstr ""
+
+#: inc/helpers.php:131
+msgid "الغلاف الرئيسي (Hero)"
+msgstr ""
+
+#: inc/page-meta.php:55
+msgid "الغلاف — سطر سفلي يمين"
+msgstr ""
+
+#: inc/page-meta.php:53
+msgid "الغلاف — سطر علوي"
+msgstr ""
+
+#: template-about.php:40
+msgid "الفلسفة"
+msgstr ""
+
+#: inc/theme-options.php:227
+msgid "الفوتر"
+msgstr ""
+
+#: inc/setup.php:27
+msgid "القائمة الرئيسية"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "القاهرة (Cairo)"
+msgstr ""
+
+#: archive-portfolio.php:29
+#: front-page.php:81
+msgid "الكل"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "اللون الأساسي (النص وخلفية الأزرار)"
+msgstr ""
+
+#: home.php:10
+#: home.php:11
+#: home.php:13
+#: single.php:11
+#: single.php:14
+msgid "المدونة"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "المراعي (Almarai)"
+msgstr ""
+
+#: single-service.php:39
+msgid "المزايا"
+msgstr ""
+
+#: inc/custom-fields.php:156
+#: inc/custom-fields.php:235
+msgid "المزايا (سطر لكل ميزة)"
+msgstr ""
+
+#: single-portfolio.php:114
+msgid "المشروع التالي"
+msgstr ""
+
+#: single-portfolio.php:110
+msgid "المشروع السابق"
+msgstr ""
+
+#: inc/theme-options.php:157
+msgid "المصوّر / عن الاستوديو"
+msgstr ""
+
+#: inc/theme-options.php:193
+msgid "المعرّف"
+msgstr ""
+
+#: inc/custom-fields.php:159
+msgid "المقتطف (Excerpt) يُستخدم كوصف قصير للخدمة في الصفحة الرئيسية وأرشيف الخدمات. ترتيب العرض في الأرشيف يُضبط عبر \"الترتيب\" أسفل الصفحة."
+msgstr ""
+
+#: inc/submissions.php:215
+#: template-contact.php:81
+msgid "الموضوع"
+msgstr ""
+
+#: inc/custom-fields.php:103
+#: inc/forms.php:174
+#: inc/submissions.php:206
+#: single-portfolio.php:58
+#: template-parts/footer/site-footer.php:39
+msgid "الموقع"
+msgstr ""
+
+#: inc/theme-options.php:34
+msgid "النشرة البريدية — مقال واحد شهريًا"
+msgstr ""
+
+#: inc/forms.php:170
+#: template-contact.php:29
+msgid "الهاتف"
+msgstr ""
+
+#: inc/theme-options.php:99
+msgid "الهوية والعلامة"
+msgstr ""
+
+#: template-contact.php:49
+msgid "انتقل إلى نموذج الحجز"
+msgstr ""
+
+#: inc/demo-content.php:136
+msgid "انتهت صلاحية الطلب، حاول مرة أخرى."
+msgstr ""
+
+#: template-contact.php:16
+msgid "بابنا مفتوح بموعد مسبق، ونرد على كل رسالة خلال يوم عمل واحد."
+msgstr ""
+
+#: inc/custom-post-types.php:79
+#: inc/custom-post-types.php:84
+msgid "باقات الأسعار"
+msgstr ""
+
+#: inc/custom-post-types.php:80
+msgid "باقة"
+msgstr ""
+
+#: template-parts/header/site-header.php:36
+msgid "بحث"
+msgstr ""
+
+#: inc/custom-post-types.php:21
+msgid "بحث في الأعمال"
+msgstr ""
+
+#: inc/custom-taxonomies.php:15
+msgid "بحث في التصنيفات"
+msgstr ""
+
+#: inc/custom-post-types.php:44
+msgid "بحث في الخدمات"
+msgstr ""
+
+#: inc/submissions.php:44
+msgid "بحث في الرسائل"
+msgstr ""
+
+#: inc/submissions.php:22
+msgid "بحث في الطلبات"
+msgstr ""
+
+#: template-parts/footer/site-footer.php:74
+msgid "بريدك الإلكتروني"
+msgstr ""
+
+#: template-contact.php:24
+msgid "بيانات الاستوديو"
+msgstr ""
+
+#: inc/page-meta.php:120
+msgid "بيانات المصوّر (الاسم، النبذة، الخبرة، الجوائز، الصورة) تُدار من إعدادات نُور العامة."
+msgstr ""
+
+#: front-page.php:206
+msgid "تابعنا"
+msgstr ""
+
+#: inc/submissions.php:119
+#: inc/submissions.php:151
+msgid "تاريخ الإرسال"
+msgstr ""
+
+#: template-contact.php:48
+msgid "تبحث عن حجز جلسة مباشرة؟"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "تجوال (Tajawal)"
+msgstr ""
+
+#: template-contact.php:69
+msgid "تحقّق من الاسم والبريد الإلكتروني، واكتب رسالة لا تقل عن ١٠ أحرف."
+msgstr ""
+
+#: inc/block-editor.php:69
+msgid "تخطيط عمودين: عنوان جانبي قصير مقابل فقرة كبيرة، بنفس أسلوب قسم الفلسفة في الصفحة الرئيسية."
+msgstr ""
+
+#: header.php:17
+msgid "تخطَّ إلى المحتوى"
+msgstr ""
+
+#: inc/custom-fields.php:237
+msgid "ترتيب الباقات في الصفحة يتبع \"الترتيب\" أسفل الصفحة (Page Attributes)."
+msgstr ""
+
+#: page.php:34
+msgid "ترقيم الصفحات"
+msgstr ""
+
+#: single.php:25
+msgid "ترقيم صفحات المقال"
+msgstr ""
+
+#: archive-portfolio.php:28
+#: front-page.php:80
+msgid "تصفية حسب التصنيف"
+msgstr ""
+
+#: 404.php:20
+#: template-booking.php:30
+msgid "تصفّح الأعمال"
+msgstr ""
+
+#: front-page.php:46
+msgid "تصفّح للأسفل"
+msgstr ""
+
+#: inc/custom-taxonomies.php:14
+msgid "تصنيف"
+msgstr ""
+
+#: inc/custom-taxonomies.php:13
+msgid "تصنيفات الأعمال"
+msgstr ""
+
+#: inc/custom-post-types.php:83
+msgid "تعديل الباقة"
+msgstr ""
+
+#: inc/custom-taxonomies.php:17
+msgid "تعديل التصنيف"
+msgstr ""
+
+#: inc/custom-post-types.php:41
+msgid "تعديل الخدمة"
+msgstr ""
+
+#: inc/custom-post-types.php:63
+msgid "تعديل الرأي"
+msgstr ""
+
+#: inc/custom-post-types.php:18
+msgid "تعديل المشروع"
+msgstr ""
+
+#: template-booking.php:52
+msgid "تعذّر إرسال الطلب — راجع الحقول المطلوبة أدناه."
+msgstr ""
+
+#: front-page.php:60
+msgid "تعرّف على الاستوديو"
+msgstr ""
+
+#: inc/forms.php:176
+#: inc/submissions.php:207
+#: template-booking.php:82
+msgid "تفاصيل إضافية"
+msgstr ""
+
+#: inc/custom-fields.php:25
+msgid "تفاصيل الباقة"
+msgstr ""
+
+#: archive-service.php:35
+#: inc/custom-fields.php:23
+msgid "تفاصيل الخدمة"
+msgstr ""
+
+#: inc/submissions.php:175
+msgid "تفاصيل الرسالة"
+msgstr ""
+
+#: inc/custom-fields.php:22
+msgid "تفاصيل المشروع"
+msgstr ""
+
+#: inc/custom-fields.php:24
+msgid "تفاصيل رأي العميل"
+msgstr ""
+
+#: inc/submissions.php:174
+msgid "تفاصيل طلب الحجز"
+msgstr ""
+
+#: template-booking.php:106
+msgid "تفضّل الحديث مباشرة؟"
+msgstr ""
+
+#: template-contact.php:59
+msgid "تم إرسال رسالتك"
+msgstr ""
+
+#: inc/demo-content.php:24
+msgid "تم استيراد محتوى العرض التجريبي بنجاح. يمكنك الآن تعديله أو حذفه بحرية من كل شاشة."
+msgstr ""
+
+#: template-booking.php:18
+msgid "تم الاستلام"
+msgstr ""
+
+#: inc/demo-content.php:37
+msgid "تم الاستيراد سابقًا بتاريخ %s. يمكنك إعادة التشغيل لإضافة نسخة جديدة من المحتوى التجريبي دون حذف ما هو موجود."
+msgstr ""
+
+#: template-parts/footer/site-footer.php:78
+msgid "تم الاشتراك، شكرًا لك."
+msgstr ""
+
+#: inc/submissions.php:65
+msgid "تم التواصل"
+msgstr ""
+
+#: template-contact.php:14
+#: template-parts/footer/site-footer.php:44
+#: template-parts/footer/site-footer.php:60
+msgid "تواصل"
+msgstr ""
+
+#: front-page.php:227
+msgid "تواصل معنا"
+msgstr ""
+
+#: inc/block-editor.php:191
+msgid "ثلاثة أعمدة تعرض آراء العملاء المنشورة مباشرة من نوع المحتوى \"آراء العملاء\"."
+msgstr ""
+
+#: inc/submissions.php:64
+msgid "جديد"
+msgstr ""
+
+#: single-portfolio.php:92
+msgid "جميع الصور مصوّرة بضوء طبيعي · %1$s · %2$s"
+msgstr ""
+
+#: template-pricing.php:93
+msgid "خدمات أخرى"
+msgstr ""
+
+#: archive-service.php:12
+msgid "خدمات التصوير"
+msgstr ""
+
+#: inc/seo.php:29
+msgid "خدمات التصوير الفوتوغرافي المتاحة."
+msgstr ""
+
+#: single-service.php:100
+msgid "خدمات ذات صلة"
+msgstr ""
+
+#: inc/custom-post-types.php:38
+#: inc/helpers.php:216
+msgid "خدمة"
+msgstr ""
+
+#: inc/custom-post-types.php:42
+msgid "خدمة جديدة"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "خط العناوين"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "خط النصوص"
+msgstr ""
+
+#: 404.php:15
+msgid "خطأ ٤٠٤"
+msgstr ""
+
+#: template-parts/header/site-header.php:38
+#: template-parts/header/site-header.php:38
+msgid "داكن"
+msgstr ""
+
+#: template-pricing.php:43
+msgid "ر.س"
+msgstr ""
+
+#: inc/custom-post-types.php:60
+#: single-service.php:86
+msgid "رأي عميل"
+msgstr ""
+
+#: inc/custom-fields.php:198
+msgid "رأي مميز على الصفحة الرئيسية"
+msgstr ""
+
+#: template-booking.php:28
+msgid "راجعنا التاريخ المطلوب، وسنرسل لك عرضًا تفصيليًا وخطوات تثبيت الموعد."
+msgstr ""
+
+#: inc/submissions.php:40
+#: inc/submissions.php:46
+msgid "رسائل التواصل"
+msgstr ""
+
+#: inc/submissions.php:41
+msgid "رسالة"
+msgstr ""
+
+#: inc/forms.php:87
+msgid "رسالة جديدة من نموذج التواصل"
+msgstr ""
+
+#: inc/submissions.php:202
+msgid "رقم الجوال"
+msgstr ""
+
+#: template-booking.php:58
+msgid "رقم الجوال *"
+msgstr ""
+
+#: inc/theme-options.php:126
+msgid "رقم الهاتف"
+msgstr ""
+
+#: inc/block-editor.php:30
+msgid "رمادي هادئ"
+msgstr ""
+
+#: inc/theme-options.php:138
+msgid "روابط التواصل الاجتماعي"
+msgstr ""
+
+#: template-parts/footer/site-footer.php:38
+msgid "روابط الموقع"
+msgstr ""
+
+#: inc/theme-options.php:134
+#: template-contact.php:31
+msgid "ساعات العمل"
+msgstr ""
+
+#: inc/theme-options.php:141
+msgid "سطر لكل رابط، بصيغة: الاسم :: الرابط — مثال: إنستغرام :: https://instagram.com/noor.studio"
+msgstr ""
+
+#: inc/theme-options.php:152
+msgid "سطر لكل رقم، بصيغة: القيمة :: اللاحقة :: التسمية — مثال: 480 :: + :: مشروع مُنجز"
+msgstr ""
+
+#: inc/block-editor.php:110
+msgid "سنة خبرة"
+msgstr ""
+
+#: template-booking.php:27
+msgid "سنعود إليك خلال ٢٤ ساعة"
+msgstr ""
+
+#: inc/theme-options.php:168
+msgid "سنوات الخبرة (نص قصير)"
+msgstr ""
+
+#: front-page.php:41
+#: inc/block-editor.php:153
+msgid "شاهد الأعمال"
+msgstr ""
+
+#: archive-portfolio.php:39
+msgid "شبكة"
+msgstr ""
+
+#: inc/helpers.php:138
+msgid "شبكة إنستغرام"
+msgstr ""
+
+#: inc/theme-options.php:197
+msgid "شبكة الصور"
+msgstr ""
+
+#: inc/block-editor.php:161
+msgid "شبكة ديناميكية تعرض أحدث مشاريع الأعمال مباشرة من نوع المحتوى \"الأعمال\" — تتحدث تلقائيًا مع كل مشروع جديد."
+msgstr ""
+
+#: inc/helpers.php:136
+msgid "شريط الإحصائيات"
+msgstr ""
+
+#: inc/theme-options.php:219
+msgid "شفافة فوق الغلاف ثم صلبة عند التمرير (افتراضي)"
+msgstr ""
+
+#: template-contact.php:60
+msgid "شكرًا لك، سنعود إليك خلال يوم عمل."
+msgstr ""
+
+#: template-about.php:104
+msgid "شهادات من عملاء الاستوديو"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "صغير"
+msgstr ""
+
+#: inc/helpers.php:217
+#: page.php:20
+msgid "صفحة"
+msgstr ""
+
+#: template-booking.php:107
+msgid "صفحة التواصل"
+msgstr ""
+
+#: inc/custom-fields.php:236
+msgid "صفوف جدول المقارنة — بصيغة: التسمية :: القيمة (سطر لكل صف)"
+msgstr ""
+
+#: inc/theme-options.php:220
+msgid "صلبة دائمًا"
+msgstr ""
+
+#: front-page.php:210
+msgid "صورة إنستغرام"
+msgstr ""
+
+#: inc/theme-options.php:176
+msgid "صورة المصوّر"
+msgstr ""
+
+#: inc/page-meta.php:60
+msgid "صورة خلفية دعوة الإجراء الختامية"
+msgstr ""
+
+#: inc/block-editor.php:140
+msgid "صورة غلاف بملء الشاشة تقريبًا مع عنوان كبير وزرّي إجراء، بنفس أسلوب غلاف الصفحة الرئيسية."
+msgstr ""
+
+#: template-about.php:64
+msgid "طريقة العمل"
+msgstr ""
+
+#: inc/submissions.php:19
+msgid "طلب حجز"
+msgstr ""
+
+#: inc/forms.php:166
+msgid "طلب حجز جديد"
+msgstr ""
+
+#: inc/submissions.php:18
+#: inc/submissions.php:24
+msgid "طلبات الحجز"
+msgstr ""
+
+#: inc/block-editor.php:35
+msgid "عادي"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "عارف رقعة"
+msgstr ""
+
+#: inc/theme-options.php:172
+msgid "عدد الجوائز (نص قصير)"
+msgstr ""
+
+#: template-booking.php:82
+msgid "عدد الضيوف، الجدول الزمني، أي طلبات خاصة…"
+msgstr ""
+
+#: inc/custom-post-types.php:43
+msgid "عرض الخدمة"
+msgstr ""
+
+#: inc/submissions.php:43
+msgid "عرض الرسالة"
+msgstr ""
+
+#: inc/submissions.php:21
+msgid "عرض الطلب"
+msgstr ""
+
+#: inc/custom-post-types.php:20
+#: template-parts/portfolio/card.php:28
+msgid "عرض المشروع"
+msgstr ""
+
+#: archive-portfolio.php:40
+msgid "عرض كامل"
+msgstr ""
+
+#: template-about.php:91
+msgid "علامات عملنا معها"
+msgstr ""
+
+#: inc/page-meta.php:119
+msgid "علامات عملنا معها (سطر لكل علامة)"
+msgstr ""
+
+#: inc/custom-fields.php:107
+msgid "عمودي (4:5)"
+msgstr ""
+
+#: template-about.php:19
+#: template-parts/footer/site-footer.php:42
+msgid "عن الاستوديو"
+msgstr ""
+
+#: single-service.php:35
+msgid "عن الخدمة"
+msgstr ""
+
+#: single-portfolio.php:66
+msgid "عن المشروع"
+msgstr ""
+
+#: front-page.php:113
+#: inc/helpers.php:134
+msgid "عن المصوّر"
+msgstr ""
+
+#: inc/block-editor.php:38
+msgid "عنوان"
+msgstr ""
+
+#: inc/submissions.php:208
+#: inc/submissions.php:217
+msgid "عنوان IP وقت الإرسال"
+msgstr ""
+
+#: inc/page-meta.php:54
+msgid "عنوان الصفحة الرئيسية = عنوان الغلاف الكبير. محتوى الصفحة = الفقرة الوصفية تحت العنوان. الصورة المميّزة = صورة الغلاف."
+msgstr ""
+
+#: inc/page-meta.php:57
+msgid "عنوان دعوة الإجراء الختامية"
+msgstr ""
+
+#: inc/block-editor.php:37
+msgid "عنوان فرعي"
+msgstr ""
+
+#: inc/block-editor.php:39
+msgid "عنوان كبير"
+msgstr ""
+
+#: inc/block-editor.php:119
+msgid "عنوان كبير وزرّان فوق صورة غلاف داكنة، بنفس أسلوب قسم الدعوة الختامية في الصفحة الرئيسية."
+msgstr ""
+
+#: template-parts/header/site-header.php:38
+msgid "فاتح"
+msgstr ""
+
+#: single-portfolio.php:85
+msgid "فتح الصورة %d بملء الشاشة"
+msgstr ""
+
+#: single-portfolio.php:77
+msgid "فتح الصورة بملء الشاشة"
+msgstr ""
+
+#: template-parts/header/site-header.php:41
+msgid "فتح القائمة"
+msgstr ""
+
+#: inc/helpers.php:132
+msgid "فقرة الفلسفة"
+msgstr ""
+
+#: inc/page-meta.php:56
+msgid "فقرة الفلسفة (بعد الغلاف مباشرة)"
+msgstr ""
+
+#: front-page.php:57
+#: inc/block-editor.php:75
+msgid "فلسفتنا"
+msgstr ""
+
+#: template-parts/portfolio/card.php:30
+msgid "فيديو"
+msgstr ""
+
+#: template-parts/header/mobile-menu.php:6
+msgid "قائمة التنقّل"
+msgstr ""
+
+#: template-parts/header/mobile-menu.php:16
+msgid "قائمة الجوال"
+msgstr ""
+
+#: inc/setup.php:28
+msgid "قائمة الفوتر"
+msgstr ""
+
+#: inc/block-editor.php:174
+msgid "قائمة ديناميكية تعرض الخدمات المنشورة مباشرة من نوع المحتوى \"الخدمات\"."
+msgstr ""
+
+#: template-contact.php:98
+msgid "قبل أن تراسلنا"
+msgstr ""
+
+#: inc/block-editor.php:36
+#: inc/customizer.php:74
+msgid "كبير"
+msgstr ""
+
+#: front-page.php:75
+msgid "كل الأعمال"
+msgstr ""
+
+#: inc/custom-taxonomies.php:16
+msgid "كل التصنيفات"
+msgstr ""
+
+#: inc/submissions.php:42
+msgid "كل الرسائل"
+msgstr ""
+
+#: inc/submissions.php:20
+msgid "كل الطلبات"
+msgstr ""
+
+#: archive-service.php:13
+msgid "كل خدمة لها فريقها وإعدادها وجدولها الزمني. اختر ما يناسب مشروعك، أو تواصل معنا لتصميم باقة خاصة."
+msgstr ""
+
+#: template-booking.php:93
+msgid "كيف تسير العملية؟"
+msgstr ""
+
+#: inc/demo-content.php:133
+msgid "لا تملك صلاحية القيام بذلك."
+msgstr ""
+
+#: inc/custom-post-types.php:45
+msgid "لا توجد خدمات"
+msgstr ""
+
+#: archive-service.php:43
+msgid "لا توجد خدمات بعد"
+msgstr ""
+
+#: inc/submissions.php:45
+msgid "لا توجد رسائل بعد"
+msgstr ""
+
+#: inc/demo-content.php:45
+msgid "لا توجد صور توضيحية مرفقة بالحزمة الحالية للثيم. سيتم إنشاء المحتوى التجريبي (المشاريع، الخدمات، آراء العملاء...) دون صور مميّزة — أضف صورك الخاصة بحقوق ملكية واضحة لكل عنصر بعد الاستيراد. راجع ملف documentation/licensing.md لمعرفة السبب."
+msgstr ""
+
+#: inc/submissions.php:23
+msgid "لا توجد طلبات حجز بعد"
+msgstr ""
+
+#: inc/custom-post-types.php:22
+msgid "لا توجد مشاريع"
+msgstr ""
+
+#: archive-portfolio.php:78
+msgid "لا توجد مشاريع بعد"
+msgstr ""
+
+#: home.php:32
+msgid "لا توجد مقالات بعد"
+msgstr ""
+
+#: inc/enqueue.php:19
+msgid "لا توجد نتائج مطابقة"
+msgstr ""
+
+#: archive.php:31
+#: index.php:22
+msgid "لا يوجد محتوى"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "لطيف"
+msgstr ""
+
+#: front-page.php:223
+#: inc/block-editor.php:123
+msgid "لنبدأ"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "لون التمييز (التفاعل عند التحويم)"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "لون الخلفية"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "لون الخلفية الثانوية (الأقسام البديلة)"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "لون النص الثانوي (التسميات والتفاصيل)"
+msgstr ""
+
+#: inc/submissions.php:66
+msgid "مؤكد"
+msgstr ""
+
+#: front-page.php:137
+msgid "ما الذي نصوّره؟"
+msgstr ""
+
+#: inc/custom-fields.php:157
+msgid "ما الذي يشمله (سطر لكل بند)"
+msgstr ""
+
+#: single-service.php:50
+msgid "ما الذي يشمله؟"
+msgstr ""
+
+#: template-pricing.php:59
+msgid "ما الفرق بين الباقات؟"
+msgstr ""
+
+#: front-page.php:176
+msgid "ماذا قالوا عن التجربة؟"
+msgstr ""
+
+#: archive-portfolio.php:38
+msgid "متدرّج"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "متوسط (افتراضي)"
+msgstr ""
+
+#: inc/page-meta.php:53
+msgid "مثال: استوديو نُور · الرياض"
+msgstr ""
+
+#: inc/custom-fields.php:233
+msgid "مثال: الأكثر طلبًا"
+msgstr ""
+
+#: inc/custom-fields.php:155
+msgid "مثال: تبدأ من ١٢٬٠٠٠ ر.س"
+msgstr ""
+
+#: inc/custom-fields.php:236
+msgid "مثال: ساعات التغطية :: ١٠ ساعات"
+msgstr ""
+
+#: inc/custom-fields.php:190
+msgid "مثال: عروس · الرياض"
+msgstr ""
+
+#: template-booking.php:81
+msgid "مثال: قاعة الواحة، الرياض"
+msgstr ""
+
+#: inc/page-meta.php:55
+msgid "مثال: ليلٌ ونُور · الرياض ٢٠٢٥"
+msgstr ""
+
+#: inc/custom-fields.php:232
+msgid "مثال: ١٢٬٠٠٠"
+msgstr ""
+
+#: inc/custom-fields.php:104
+msgid "مثال: ٢٠٢٥"
+msgstr ""
+
+#: inc/page-meta.php:33
+msgid "محتوى الصفحة الرئيسية"
+msgstr ""
+
+#: inc/demo-content.php:34
+msgid "محتوى تجريبي"
+msgstr ""
+
+#: inc/page-meta.php:37
+msgid "محتوى صفحة عن الاستوديو"
+msgstr ""
+
+#: inc/page-meta.php:117
+msgid "مراحل العمل — بصيغة: العنوان :: الوصف"
+msgstr ""
+
+#: inc/custom-fields.php:108
+msgid "مربع (1:1)"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "مركزي تكست"
+msgstr ""
+
+#: inc/helpers.php:44
+msgid "مسار التنقّل"
+msgstr ""
+
+#: single-portfolio.php:99
+msgid "مشاركة المشروع"
+msgstr ""
+
+#: single-portfolio.php:124
+msgid "مشاريع ذات صلة"
+msgstr ""
+
+#: front-page.php:73
+msgid "مشاريع من الأرشيف"
+msgstr ""
+
+#: inc/custom-post-types.php:15
+#: inc/helpers.php:215
+msgid "مشروع"
+msgstr ""
+
+#: inc/custom-post-types.php:19
+msgid "مشروع جديد"
+msgstr ""
+
+#: inc/custom-fields.php:111
+msgid "مشروع مميز على الصفحة الرئيسية"
+msgstr ""
+
+#: inc/block-editor.php:100
+msgid "مشروع مُنجز"
+msgstr ""
+
+#: inc/custom-fields.php:113
+msgid "معرض صور المشروع"
+msgstr ""
+
+#: inc/submissions.php:67
+msgid "مغلق"
+msgstr ""
+
+#: template-pricing.php:59
+msgid "مقارنة"
+msgstr ""
+
+#: single-service.php:56
+msgid "مقارنة الباقات"
+msgstr ""
+
+#: template-pricing.php:62
+msgid "مقارنة تفصيلية بين باقات التصوير"
+msgstr ""
+
+#: template-booking.php:81
+msgid "مكان التصوير"
+msgstr ""
+
+#: inc/custom-fields.php:233
+msgid "ملاحظة قصيرة أعلى الاسم"
+msgstr ""
+
+#: template-about.php:65
+msgid "من أول رسالة حتى التسليم"
+msgstr ""
+
+#: footer.php:15
+msgid "موافق"
+msgstr ""
+
+#: inc/theme-options.php:164
+msgid "نبذة (تُستخدم في الصفحة الرئيسية)"
+msgstr ""
+
+#: inc/custom-fields.php:105
+msgid "نسبة العرض الافتراضية للبطاقة"
+msgstr ""
+
+#: footer.php:12
+msgid "نستخدم ملفات تعريف الارتباط لتحسين تجربة التصفّح وقياس أداء المعارض. يمكنك مراجعة سياسة الخصوصية في أي وقت."
+msgstr ""
+
+#: single-portfolio.php:103
+msgid "نسخ الرابط"
+msgstr ""
+
+#: inc/theme-options.php:230
+msgid "نص حقوق النشر"
+msgstr ""
+
+#: inc/theme-options.php:235
+msgid "نص دعوة الاشتراك بالنشرة"
+msgstr ""
+
+#: single-service.php:65
+msgid "نماذج من الأعمال"
+msgstr ""
+
+#: inc/theme-options.php:216
+msgid "نمط الترويسة على الصفحة الرئيسية"
+msgstr ""
+
+#: archive-portfolio.php:37
+msgid "نمط العرض"
+msgstr ""
+
+#: template-booking.php:62
+msgid "نوع الخدمة *"
+msgstr ""
+
+#: inc/block-editor.php:65
+msgid "نُور"
+msgstr ""
+
+#: inc/page-meta.php:16
+msgid "نُور — الباقات والأسعار"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "نُور — التصميم"
+msgstr ""
+
+#: inc/page-meta.php:18
+msgid "نُور — الحجز"
+msgstr ""
+
+#: inc/page-meta.php:17
+msgid "نُور — تواصل معنا"
+msgstr ""
+
+#: inc/block-editor.php:118
+msgid "نُور — دعوة ختامية على صورة"
+msgstr ""
+
+#: inc/block-editor.php:190
+msgid "نُور — شبكة آراء عملاء (Query Loop)"
+msgstr ""
+
+#: inc/block-editor.php:160
+msgid "نُور — شبكة أعمال (Query Loop)"
+msgstr ""
+
+#: inc/block-editor.php:89
+msgid "نُور — شريط إحصائيات داكن"
+msgstr ""
+
+#: inc/page-meta.php:15
+msgid "نُور — عن الاستوديو"
+msgstr ""
+
+#: inc/block-editor.php:139
+msgid "نُور — غلاف رئيسي (صورة كاملة + عنوان)"
+msgstr ""
+
+#: inc/block-editor.php:68
+msgid "نُور — فقرة فلسفة (عنوان جانبي + نص)"
+msgstr ""
+
+#: inc/block-editor.php:173
+msgid "نُور — قائمة خدمات (Query Loop)"
+msgstr ""
+
+#: inc/theme-options.php:95
+msgid "هذه الإعدادات تتحكم في المحتوى الظاهر عبر أكثر من صفحة: الفوتر، الترويسة، الصفحة الرئيسية، وصفحة عن الاستوديو."
+msgstr ""
+
+#: single-portfolio.php:101
+msgid "واتساب"
+msgstr ""
+
+#: inc/theme-options.php:114
+msgid "وصف مختصر (يظهر في الفوتر)"
+msgstr ""
+
+#: template-booking.php:19
+msgid "وصلنا طلبك، شكرًا لك"
+msgstr ""
+
+#: 404.php:16
+msgid "يبدو أن هذه الصورة ضاعت في الطريق."
+msgstr ""
+
+#: inc/custom-fields.php:110
+msgid "يحتوي هذا المشروع على فيديو"
+msgstr ""
+
+#: inc/demo-content.php:39
+msgid "يمكنك استيراد محتوى تجريبي كامل (أعمال، خدمات، باقات، آراء عملاء، وصفحات) لمعاينة التصميم فورًا، ثم تعديله أو حذفه بحرية لاحقًا."
+msgstr ""
+
+#: inc/theme-options.php:222
+msgid "يُطبَّق فقط على الصفحة الرئيسية — بقية الصفحات تستخدم دائمًا الترويسة الصلبة."
+msgstr ""
+
